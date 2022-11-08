@@ -59,8 +59,8 @@ replace (
 	k8s.io/kube-proxy => github.com/k3s-io/kubernetes/staging/src/k8s.io/kube-proxy v1.22.6-k3s1
 	k8s.io/kube-scheduler => github.com/k3s-io/kubernetes/staging/src/k8s.io/kube-scheduler v1.22.6-k3s1
 	k8s.io/kubectl => github.com/k3s-io/kubernetes/staging/src/k8s.io/kubectl v1.22.6-k3s1
-	k8s.io/kubelet => github.com/k3s-io/kubernetes/staging/src/k8s.io/kubelet v1.22.6-k3s1
-	k8s.io/kubernetes => github.com/k3s-io/kubernetes v1.22.6-k3s1
+	k8s.io/kubelet => github.com/malc0lm/kubernetes/staging/src/k8s.io/kubelet v1.22.6-edge-1
+	k8s.io/kubernetes => github.com/malc0lm/kubernetes v1.22.6-edge-1
 	k8s.io/legacy-cloud-providers => github.com/k3s-io/kubernetes/staging/src/k8s.io/legacy-cloud-providers v1.22.6-k3s1
 	k8s.io/metrics => github.com/k3s-io/kubernetes/staging/src/k8s.io/metrics v1.22.6-k3s1
 	k8s.io/mount-utils => github.com/k3s-io/kubernetes/staging/src/k8s.io/mount-utils v1.22.6-k3s1

@@ -619,8 +619,6 @@ github.com/k3s-io/klog v1.0.0-k3s2 h1:yyvD2bQbxG7m85/pvNctLX2bUDmva5kOBvuZ77tTGB
 github.com/k3s-io/klog v1.0.0-k3s2/go.mod h1:4Bi6QPql/J/LkTDqv7R/cd3hPo4k2DG6Ptcz060Ez5I=
 github.com/k3s-io/klog/v2 v2.9.0-k3s2 h1:8Dzu3wGPFMo1mPEobSEpkHWH+HXqgFXp8R7FbcdgE8k=
 github.com/k3s-io/klog/v2 v2.9.0-k3s2/go.mod h1:hy9LJ/NvuK+iVyP4Ehqva4HxZG/oXyIS3n3Jmire4Ec=
-github.com/k3s-io/kubernetes v1.22.6-k3s1 h1:JcKbltxaeCZVFs+4VY8PEmyTHZF7JB3koM62AbRE17s=
-github.com/k3s-io/kubernetes v1.22.6-k3s1/go.mod h1:l2ikQCpfvsMAXgL7FDtzgn/AVdjt4XGUYHMXn2vuzYI=
 github.com/k3s-io/kubernetes/staging/src/k8s.io/api v1.22.6-k3s1 h1:/QR6bKycKTkBSyOgh/zF5Vp9jrlAN+cdHxIO6wQpnhQ=
 github.com/k3s-io/kubernetes/staging/src/k8s.io/api v1.22.6-k3s1/go.mod h1:IpPnJRE5t3olVaut5p67N16cZkWwwU5KVFM35xCKyxM=
 github.com/k3s-io/kubernetes/staging/src/k8s.io/apiextensions-apiserver v1.22.6-k3s1 h1:CyCAdNGVja8ttTusFg6ozWv/EJzukKpPklWQTC8CQZY=
@@ -659,8 +657,6 @@ github.com/k3s-io/kubernetes/staging/src/k8s.io/kube-scheduler v1.22.6-k3s1 h1:c
 github.com/k3s-io/kubernetes/staging/src/k8s.io/kube-scheduler v1.22.6-k3s1/go.mod h1:xZnfOrGTta6rB9IWNKl82yzWKpMSUXVmyGHRilQ9kzM=
 github.com/k3s-io/kubernetes/staging/src/k8s.io/kubectl v1.22.6-k3s1 h1:bf0BCnBqrN7/WE1ny+HhLX6nyfTm7t98vIpBsx3ENs8=
 github.com/k3s-io/kubernetes/staging/src/k8s.io/kubectl v1.22.6-k3s1/go.mod h1:tQ6sES/uhan72qymDDma4H0wrrF0gcZIYV8cczR20es=
-github.com/k3s-io/kubernetes/staging/src/k8s.io/kubelet v1.22.6-k3s1 h1:Wfd9btMIG+ZctkxvFRcQa2zMmMr+3nV0I6b9Vz+k/f4=
-github.com/k3s-io/kubernetes/staging/src/k8s.io/kubelet v1.22.6-k3s1/go.mod h1:WyrLJLrfabeu6M39g8+g4tuj+qjP70IVV8HQFp3EBb4=
 github.com/k3s-io/kubernetes/staging/src/k8s.io/legacy-cloud-providers v1.22.6-k3s1 h1:RzT/vsIiXv6cQiluMJwd8DhCFz2YCmOTj+PpFmJomKM=
 github.com/k3s-io/kubernetes/staging/src/k8s.io/legacy-cloud-providers v1.22.6-k3s1/go.mod h1:X8EaUY5K2IM/62KAMuHGuHyOhsJwvsoRwdvsyWjm++g=
 github.com/k3s-io/kubernetes/staging/src/k8s.io/metrics v1.22.6-k3s1 h1:CGk/dRFQZ5prK80014tpd8F+q/qWdksHEm76iMhkJzI=
@@ -715,6 +711,10 @@ github.com/mailru/easyjson v0.0.0-20190626092158-b2ccc519800e/go.mod h1:C1wdFJiN
 github.com/mailru/easyjson v0.7.0/go.mod h1:KAzv3t3aY1NaHWoQz1+4F1ccyAH66Jk7yos7ldAVICs=
 github.com/mailru/easyjson v0.7.6 h1:8yTIVnZgCoiM1TgqoeTl+LfU5Jg6/xL3QhGQnimLYnA=
 github.com/mailru/easyjson v0.7.6/go.mod h1:xzfreul335JAWq5oZzymOObrkdz5UnU4kGfJJLY9Nlc=
+github.com/malc0lm/kubernetes v1.22.6-edge-1 h1:wmv2FpUACz3/b2waZFG/AjTLXHAEFkqeWCL8xzo4cBg=
+github.com/malc0lm/kubernetes v1.22.6-edge-1/go.mod h1:l2ikQCpfvsMAXgL7FDtzgn/AVdjt4XGUYHMXn2vuzYI=
+github.com/malc0lm/kubernetes/staging/src/k8s.io/kubelet v1.22.6-edge-1 h1:rjPBWmFRVcTQLe88YkeopZwZ++JlYrUAtCTKWeTs1qM=
+github.com/malc0lm/kubernetes/staging/src/k8s.io/kubelet v1.22.6-edge-1/go.mod h1:WyrLJLrfabeu6M39g8+g4tuj+qjP70IVV8HQFp3EBb4=
 github.com/mattn/go-colorable v0.0.9/go.mod h1:9vuHe8Xs5qXnSaW/c/ABM9alt+Vo+STaOChaDxuIBZU=
 github.com/mattn/go-colorable v0.1.4/go.mod h1:U0ppj6V5qS13XJ6of8GYAs25YV2eR4EVcfRqFIhoBtE=
 github.com/mattn/go-isatty v0.0.3/go.mod h1:M+lRXTBqGeGNdLjl/ufCoiOlB5xdOkqRJdNxMWT7Zi4=
